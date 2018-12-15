@@ -1,0 +1,4 @@
+digraph File_system {
+"FILE_B : 02.01.2018"->"FILE_A : 01.01.2018"
+"FILE_B : 02.01.2018"->"FILE_G : 04.12.2018"
+}

@@ -1,0 +1,12 @@
+main.h
+tree_operations.h
+out.gv
+Makefile
+in.txt
+main.c
+tree_operations.c
+tree.gv
+lab6.config
+lab6.creator
+lab6.files
+lab6.includes

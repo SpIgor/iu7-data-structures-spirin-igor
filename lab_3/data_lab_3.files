@@ -1,0 +1,7 @@
+main.h
+array_operations.h
+array_operations.c
+list_operations.h
+main.c
+list_operations.c
+Makefile

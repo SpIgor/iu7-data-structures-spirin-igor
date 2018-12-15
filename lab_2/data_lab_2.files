@@ -1,0 +1,16 @@
+in_1.txt
+out_1.txt
+main.h
+main.c
+struct_operations.c
+string_operations.h
+struct_operations.h
+Makefile
+string_operations.c
+struct.h
+main.o
+string_operations.o
+data_lab_2.config
+data_lab_2.creator
+data_lab_2.files
+data_lab_2.includes
